@@ -1,5 +1,5 @@
 // Eric Valenzuela
-
+// new line
 package mvcdemo;
 
 public class Student {
